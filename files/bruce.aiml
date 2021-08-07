@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+
+
+
+<category>
+	<pattern>HI</pattern>
+	<template>Hello! I'm Bruce and I will be assisting you today, how may I help you? </template>
+</category>
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>Hello! I'm Bruce and I will be assisting you today, how may I help you? </template>
+</category>
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>Hello! I'm Bruce and I will be assisting you today, how may I help you? </template>
+</category>
+	
+
+
+<category>
+	<pattern>BEDS NEAR ME</pattern>
+	<template>can you please specify your area</template>
+</category>
+
+
+
+<category>
+	<pattern>SELENGOR</pattern>
+	<template>please contact on this lines for assistance in booking a bed 123-78969, 333-55500, 112-26677</template>
+</category>
+
+<category>
+	<pattern>SERAWAK</pattern>
+	<template>please contact on this lines for assistance in booking a bed 123-45669, 333-66600, 112-66977</template>
+</category>
+
+<category>
+	<pattern>PENANG</pattern>
+	<template>please contact on this lines for assistance in booking a bed 234-78969, 333-33300, 619-26677</template>
+</category>
+
+<category>
+	<pattern>LOOKING FOR FOR HOSPITAL BEDS NEAR ME</pattern>
+	<template>please specify your  current location </template>
+</category>
+
+<category>
+	<pattern>LOOKING FOR FOR HOSPITAL BEDS NEAR ME</pattern>
+	<template>can you please specify your area</template>
+</category>
+
+<category>
+	<pattern>LOOKING FOR FOR HOSPITAL BEDS NEAR ME</pattern>
+	<template>can you please specify your area</template>
+</category>
+
+<category>
+	<pattern>WHERE CAN I REGISTER FOR VACCINATIONS?</pattern>
+	<template>which brand vaccine are you looking for?</template>
+</category>
+
+<category>
+	<pattern>WHERE CAN I REGISTER FOR VACCINATIONS?</pattern>
+	<template>please specify the brand of vaccine you are looking for</template>
+</category>
+
+<category>
+	<pattern>WHERE CAN I REGISTER FOR VACCINATIONS</pattern>
+	<template>which brand of vaccine are you looking for</template>
+</category>
+
+
+
+<category>
+	<pattern>PFIZER</pattern>
+	<template>It is available in Malay city hospital, selengor.</template>
+</category>
+
+
+
+<category>
+	<pattern>PFIZER</pattern>
+	<template>It is available in Malay city hospital, selengor.  please contact 123-4567 for booking.</template>
+</category>
+
+<category>
+	<pattern>ASTERZENCA</pattern>
+	<template>It is available in KL Hospital, Kuala Lumpur.  please contact 345-2367 for booking.</template>
+</category>
+
+<category>
+	<pattern>SINOVAC</pattern>
+	<template>It is available in Selengor Hospital, Selengor.  please contact 719-91343 for booking.</template>
+</category>
+
+<category>
+	<pattern>SINOVAC</pattern>
+	<template>It is available in Selengor Hospital, Selengor.  please contact 719-91343 for booking.</template>
+</category>
+
+<category>
+	<pattern>MALAY CITY HOSPITAL</pattern>
+	<template>please contact on these lines. +601020839 - mr.Jordy +6010719913 - mr. Ali</template>
+</category>
+
+<category>
+	<pattern>SELENGOR HOSPITAL</pattern>
+	<template>please contact on these lines. +601020869 - mr.Stepan +6010719989 - mr.Hadi</template>
+</category>
+
+<category>
+	<pattern>SELENGOR HOSPITAL</pattern>
+	<template>please contact on these lines. +601020869 - mr.Stepan +601071998 - mr.Hadi</template>
+</category>
+
+<category>
+	<pattern>KL HOSPITAL</pattern>
+	<template>please contact on these lines. +601025639 - Ms. khadija +6010714513 - Mr. Alex</template>
+</category>
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>

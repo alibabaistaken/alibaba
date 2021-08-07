@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>IM LOOKING FOR REMDESIVIR</pattern>
+	<template>it is available in star pharmacy(12344-456), malay pharmacy (547-47358)</template>
+</category>
+
+<category>
+	<pattern>IM LOOKING FOR GUAIFENESIN</pattern>
+	<template>it is available in KL pharmacy (7256-0871) and sunway pharmacy (2879-1780)</template>
+</category>
+
+<category>
+	<pattern>IM LOOKING FOR DEXAMETHASONE</pattern>
+	<template>it is available in penang pharmacy (5012-8290) and st john pharmacy (1029-0192)</template>
+</category>
+
+
+<category>
+	<pattern>IM LOOKING FOR AMBULANCE</pattern>
+	<template>is it for covid patiens or other sickness </template>
+</category>
+
+<category>
+	<pattern>COVID PATIENTS</pattern>
+	<template>okay ambulance is on the way</template>
+</category>
+
+
+<category>
+	<pattern>😄</pattern>
+	<template>happy to help</template>
+</category>
+
+<category>
+	<pattern>IM LOOKING FOR OXYGEN TANKS</pattern>
+	<template>oxygen tanks available in all hospitals. contact mr chen if u need further assistance (9102-0192)</template>
+</category>
+
+<category>
+	<pattern>IM LOOKING FOR AMBULANCE</pattern>
+	<template>Ambulance requirement is  for COVID patients or other sickness</template>
+</category>
+
+<category>
+	<pattern>COVID PATIENTS</pattern>
+	<template>please contact on the following lines 100, 911</template>
+</category>
+
+<category>
+	<pattern>COVID PATIENT</pattern>
+	<template>please contact on the following lines 100, 911</template>
+</category>
+
+<category>
+	<pattern>OTHER SICKNESS</pattern>
+	<template>please contact on the following lines 101, 912</template>
+</category>
+
+</aiml>
